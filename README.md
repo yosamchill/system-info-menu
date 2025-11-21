@@ -22,9 +22,13 @@ Perfect for Linux users, developers, sysadmins, and students.
 
 🖥️ Lightweight, fast, and terminal-friendly
 
+
+
 📂 Project Structure
 system-info-menu/
  └── system_info.sh   # main script
+
+
 
 🛠️ Installation & Usage
 1️⃣ Clone the repository

@@ -28,7 +28,7 @@ system-info-menu/
 
 🛠️ Installation & Usage
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/system-info-menu.git
+git clone https://github.com/yosamchill/system-info-menu.git
 
 2️⃣ Enter the project folder
 cd system-info-menu

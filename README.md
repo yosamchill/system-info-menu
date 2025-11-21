@@ -1,8 +1,8 @@
 # system-info-menu
 System Information Menu (Bash Script)
 
-A beautiful and interactive menu-driven system information tool written in Bash.
-Shows essential system stats like date/time, current users, disk usage, memory usage, and uptime — all in an attractive colored UI.
+An interactive menu-driven system information tool written in Bash.
+Shows essential system stats like date/time, current users, disk usage, memory usage, and uptime .
 
 Perfect for Linux users, developers, sysadmins, and students.
 
